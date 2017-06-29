@@ -1,11 +1,11 @@
 package com.example.findingv2;
 
+import android.graphics.SurfaceTexture;
+import android.os.Bundle;
 import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 import android.util.Log;
 import android.view.TextureView;
-import android.widget.Button;
 import android.widget.Toast;
 
 import dji.common.product.Model;
@@ -14,7 +14,7 @@ import dji.sdk.camera.Camera;
 import dji.sdk.camera.VideoFeeder;
 import dji.sdk.codec.DJICodecManager;
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity implements TextureView.SurfaceTextureListener{
 
     private static final String TAG = MainActivity.class.getName();
     protected VideoFeeder.VideoDataCallback mReceivedVideoDataCallBack = null;
@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), "Disconnect", Toast.LENGTH_LONG).show();
         } else {
             if (null != mVideoSurface) {
-                //mVideoSurface.setSurfaceTextureListener(this);
+                mVideoSurface.setSurfaceTextureListener(this);
             }
             if (!product.getModel().equals(Model.UNKNOWN_AIRCRAFT)) {
                 if (VideoFeeder.getInstance().getVideoFeeds() != null
@@ -82,9 +82,41 @@ public class MainActivity extends AppCompatActivity {
         }
     }
 
+    private void uninitPreviewer() {
+        Camera camera = FindingApplication.getCameraInstance();
+        if (camera != null){
+            // Reset the callback
+            VideoFeeder.getInstance().getVideoFeeds().get(0).setCallback(null);
+        }
+    }
+
 
     private void intialUI() {
         // init mVideoSurface
         mVideoSurface = (TextureView)findViewById(R.id.Drone_Video_View);
+    }
+
+    @Override
+    public void onSurfaceTextureAvailable(SurfaceTexture surface, int width, int height) {
+        Log.e(TAG, "onSurfaceTextureAvailable");
+        if (mCodecManager == null) {
+            mCodecManager = new DJICodecManager(this, surface, width, height);
+        }
+    }
+    @Override
+    public void onSurfaceTextureSizeChanged(SurfaceTexture surface, int width, int height) {
+        Log.e(TAG, "onSurfaceTextureSizeChanged");
+    }
+    @Override
+    public boolean onSurfaceTextureDestroyed(SurfaceTexture surface) {
+        Log.e(TAG,"onSurfaceTextureDestroyed");
+        if (mCodecManager != null) {
+            mCodecManager.cleanSurface();
+            mCodecManager = null;
+        }
+        return false;
+    }
+    @Override
+    public void onSurfaceTextureUpdated(SurfaceTexture surface) {
     }
 }

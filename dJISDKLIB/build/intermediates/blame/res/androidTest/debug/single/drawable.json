@@ -1,54 +1,106 @@
 [
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_started.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_started.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_start_plane.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_start_plane.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_start_plane.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_start_plane.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_launcher.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\ic_launcher.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\ic_launcher.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_arrow.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_arrow.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_arrow.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_arrow.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/draw_route_pass.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/draw_route_pass.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_radio_selector.xml",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_radio_selector.xml"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_radio_selector.xml",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_radio_selector.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route_pass.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route_pass.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route_pass.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route_pass.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_lock_selector.xml",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_lock_selector.xml"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_lock_selector.xml",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_lock_selector.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_unchecked.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_unchecked.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_selector.xml",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_zoom_selector.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_end.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_end.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_end.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_end.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_starter.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_starter.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/radio_unchecked.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/radio_unchecked.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_checked.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_checked.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_radio_selector.xml",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_radio_selector.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route.png",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route.png"
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_draw_starter.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_draw_starter.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_zoom_selector.xml",
-        "source": "C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_zoom_selector.xml"
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_zoom_selector.xml",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_zoom_selector.xml"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_lock_selector.xml",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_lock_selector.xml"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_started.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_started.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/radio_checked.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/radio_checked.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_unchecked.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_unchecked.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_draw_end.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_draw_end.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\btn_draw_starter.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\btn_draw_starter.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\radio_checked.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\radio_checked.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/draw_arrow.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/draw_arrow.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_draw_start_plane.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_draw_start_plane.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/ic_launcher.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_draw_started.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/btn_draw_started.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/res/merged/androidTest/debug/drawable/draw_route.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/dJISDKLIB/build/intermediates/bundles/debug/res/drawable/draw_route.png"
+    },
+    {
+        "merged": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\draw_route.png",
+        "source": "/Users/jarishing/Downloads/FindingV2/C:\\Users\\user\\Desktop\\FindingV2\\dJISDKLIB\\build\\intermediates\\bundles\\debug\\res\\drawable\\draw_route.png"
     }
 ]
