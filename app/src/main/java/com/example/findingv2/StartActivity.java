@@ -52,17 +52,13 @@ public class StartActivity extends AppCompatActivity{
         }
 
         setContentView(R.layout.start_view);
-
         Intial_ui();
-
 
         // Register the broadcast receiver for receiving the device connection's changes.
 
         IntentFilter filter = new IntentFilter();
         filter.addAction(FindingApplication.FLAG_CONNECTION_CHANGE);
         registerReceiver(mReceiver, filter);
-
-        //Connected_View();
     }
 
     @Override
@@ -101,7 +97,6 @@ public class StartActivity extends AppCompatActivity{
 
         @Override
         public void onReceive(Context context, Intent intent) {
-            Log.e("mss","Test!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
             refreshSDKRelativeUI();
         }
     };
